@@ -5,4 +5,4 @@ Code for my first serious ML competition on kaggle. The two codes are LSTM and L
 To download dataset for the competition visit : https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction.
 
 ## Titanic  Machine Learning from Disaster:
-Learning basics of machine learning concepts through this competiotion.
+Learning basics of machine learning concepts through this competiotion. For dataset download visit: https://www.kaggle.com/competitions/titanic/overview.
